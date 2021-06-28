@@ -1,4 +1,4 @@
-# Translatiing-English-to-Hindi-
+# Translating-English-to-Hindi
 Seq2Seq Model with Attention Mechanism for translating English to Hindi
 
 The **encoder-decoder** model for recurrent neural networks is an architecture for **sequence-to-sequence** prediction problems.
