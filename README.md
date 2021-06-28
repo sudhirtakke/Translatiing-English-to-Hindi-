@@ -38,3 +38,5 @@ A **problem** with the *architecture* is that **performance** is **poor** on *lo
  translate('he is a good person')<br>
  Input: <start> he is a good person <end> <br>
  Predicted translation: वह अचछा इनसान ह। <end> <br>
+  
+ [Jupyter Notebook](./Seq2Seq Model with Attention Mechanism.ipynb)
